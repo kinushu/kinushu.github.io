@@ -1,7 +1,4 @@
 
-# kernel panic cartoon
-# shuhei kinukawa
-
 --------------
 
 ## About
