@@ -35,6 +35,8 @@
 + ベース担当(サポート) (2010-)
 + ['Demo Songs; Ivy' - 'ivy','放課後エイリアン'](https://soundcloud.com/vabune/ivy)　の録音に参加
 
+<a href="http://www.flickr.com/photos/kinushu/12265233734/" title="rough3 by kinushu, on Flickr"><img src="http://farm8.staticflickr.com/7452/12265233734_ae6e6e418c.jpg" width="200" height="200" alt="rough3"></a>
+
 <iframe frameborder="0" height="315" src="http://www.youtube.com/embed/zEDqsq-lWQg" width="560"></iframe>
 <iframe frameborder="0" height="315" src="http://www.youtube.com/embed/n_Kkokx2-HM" width="560"></iframe>
 
