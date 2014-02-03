@@ -1,71 +1,105 @@
 
 --------------
 
+kernel panic  
+cartoon /  
+shuhei  
+kinukawa  
+
 ## About
 
 + ジャズ、即興、エレクトロニカなどをつまみ食いするベーシスト。
 + 映像作品の作曲、編集、ミックスもやっています。
 + ビデオカメラとマイク持ちだして、
   映像がわかる音響エンジニアとしても活動しています。
++ Shimane->Hyogo<->Tokyo, Japan
 
 ### Identifications
 
-+ twitter: <http://twitter.com/kinushu>
++ twitter: [@kinushu](http://twitter.com/kinushu)
 + blog: <http://d.kpctoon.com/>
-+ soundcloud: <https://soundcloud.com/kinushu/>
-+ youtube: <http://www.youtube.com/user/kinushu/videos>
-+ my live videos: <http://www.youtube.com/playlist?list=PLE3gPN1nM0q4jNI2xUtWCFGjRlEA3heRL>
-+ instagram: <http://instagram.com/kinushu>
-+ flickr: <http://www.flickr.com/photos/kinushu/>
-+ github: <https://github.com/kinushu>
++ soundcloud: [kinushu](https://soundcloud.com/kinushu/)
++ youtube: [kinushu](http://www.youtube.com/user/kinushu/videos)
++ USTREAM:[topophiria-live](http://www.ustream.tv/channel/topophiria-live)
++ instagram: [kinushu](http://instagram.com/kinushu)
++ flickr: [kinushu](http://www.flickr.com/photos/kinushu/)
++ github: [github.com/kinushu](https://github.com/kinushu)
 
 ### Equipments
-+ PMG 5string(Low-B) fretless electric bass, ARIA SWB-04
-+ Ableton Live, Pro tools, Studio One
++ PGM 5string(Low-B) fretless electric bass, ARIA SWB-04
++ Ableton Live, Avid Pro tools, Presonus Studio One
 + Final Cut Pro X, Canon G10, Roland VR-1
-+ USTREAM Producer, CamTwist, Soundflower... 
++ USTREAM, CamTwist, Soundflower... 
 + C++, Ruby...
+
+--------------
 
 ## Works
 
-### ベース演奏
+### Music
 
 #### [Spaghetti Vabune!](http://vabune.com/)
 
-+ ベース担当(サポート) (2010-)
-+ ['Demo Songs; Ivy' - 'ivy','放課後エイリアン'](https://soundcloud.com/vabune/ivy)　の録音に参加
+<section id="desc">
 
++ Regular support bassist (2010-)
++ Recording ['Demo Songs; Ivy' - 'ivy','放課後エイリアン'](https://soundcloud.com/vabune/ivy)　
+
+</section>
+
+<section id="content">
 <a href="http://www.flickr.com/photos/kinushu/12265233734/" title="rough3 by kinushu, on Flickr"><img src="http://farm8.staticflickr.com/7452/12265233734_ae6e6e418c.jpg" width="200" height="200" alt="rough3"></a>
 
-<iframe frameborder="0" height="315" src="http://www.youtube.com/embed/zEDqsq-lWQg" width="560"></iframe>
-<iframe frameborder="0" height="315" src="http://www.youtube.com/embed/n_Kkokx2-HM" width="560"></iframe>
+<iframe frameborder="0" height="200" src="http://www.youtube.com/embed/zEDqsq-lWQg" width="356"></iframe>	
+</section>
 
 #### moire(もあれ)
 
-<iframe frameborder="0" height="315" src="http://www.youtube.com/embed/GmVDxWqfQDg" width="560">
+<section id="desc">
+
++ My electric jazz band
++ Member
+	* Jin Kirimura(guitars,compose)
+	* Shuhei Kinukawa(@kinushu)(bass)
+	* Yu Ito(@yk2skt)(drums)
+	* and guest players..
+
+</section>
+
+<section id="content">
+<iframe frameborder="0" height="200" src="http://www.youtube.com/embed/GmVDxWqfQDg" width="356">
 </iframe>
+</section>
 
-#### [シエラレオネ](http://sierraleone.jp/)
+#### [Sakaguchi Mitsuhisa『ARCHITECNICA』(2010)](http://enjyaqu.main.jp/)
++ Keyboardist Sakaguchi Mitsuhisa(坂口光央) 's solo overdub compositions
++ Recording, Mixing engineer
 
-+ アルバム'Nothing but a man'の録音に参加
-    - 4.日が昇る頃
-    - 8.虫
+<img src="http://media.tumblr.com/tumblr_lsypaqtNMX1qjsa49.jpg"/ height="200">
 
-<img src="http://media.tumblr.com/tumblr_lsypfvkzwE1qjsa49.jpg"/>
+[Amazon](http://www.amazon.co.jp/ARCHITECNICA-%E5%9D%82%E5%8F%A3%E5%85%89%E5%A4%AE/dp/B007ODXXIC)
 
 
-#### 過去の録音
+#### [Sierra Leone(シエラレオネ)](http://sierraleone.jp/)
+
++ Recording bassist (Album 'Nothing but a man')
+
+<img src="http://media.tumblr.com/tumblr_lsypfvkzwE1qjsa49.jpg"/ height="200">
+
+
+#### Other music work
 
 <http://soundcloud.com/kinushu/>
 
 <iframe width="560" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2890942&amp;color=bd6f3a&amp;auto_play=false&amp;show_artwork=false"></iframe>
 
 
-### 映画作品の音響担当
 
-#### TOPOPHIRIA TOKYO
-+ 自主映画制作団体
-+ MA, 劇中曲（一部）の作曲演奏、効果音を担当
+
+### Movie
+
+#### TOPOPHIRIA TOKYO(Video Production Team)
++ Sound Mixing, Editing, Music Composition, Effect...
 
 ##### 幻想の都市(2012)
 
@@ -75,23 +109,15 @@
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Q3TwH26-UQU" frameborder="0" allowfullscreen></iframe>
 
-##### 蛍 (2008)
+##### Firefly(蛍) (2008)
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/1uo8crulYjo" frameborder="0" allowfullscreen></iframe>
 
 
 
-### 音響エンジニア
 
-#### [坂口光央『ARCHITECNICA』(2010)](http://enjyaqu.main.jp/)
-+ 鍵盤奏者 坂口光央 のsynthオーバーダブによるソロ作
-+ 録音、ミックス、マスタリングを担当	
 
-<img src="http://media.tumblr.com/tumblr_lsypaqtNMX1qjsa49.jpg"/>
-
-[Amazon](http://www.amazon.co.jp/ARCHITECNICA-%E5%9D%82%E5%8F%A3%E5%85%89%E5%A4%AE/dp/B007ODXXIC)
-
-### 映像配信
+### Video Streaming
 
 + ライブ、イベントの出張USTREAM配信やっています。
 + カメラ、スイッチャ、モバイルネット回線持って行きます。
@@ -107,7 +133,7 @@
 <iframe frameborder="0" height="270" scrolling="no" src="http://www.ustream.tv/embed/recorded/8210287" width="480"></iframe>
 
 
-### 映像撮影、編集
+### Video Editing
 
 #### [Spaghetti Vabune!](http://vabune.com/)
 
