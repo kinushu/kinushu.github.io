@@ -2,6 +2,7 @@
 source "http://rubygems.org"
 
 gem "foreman"             # this is a tool to test and use the Procfile locally
+gem "sinatra"
 
 group :development do
   gem "debugger"
