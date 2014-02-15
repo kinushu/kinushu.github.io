@@ -6,6 +6,8 @@ cartoon /
 shuhei  
 kinukawa  
 
+Bassist, Programmer, Engineer
+
 ## About
 
 + ジャズ、即興、エレクトロニカなどをつまみ食いするベーシスト。
