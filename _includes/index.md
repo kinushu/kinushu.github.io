@@ -6,14 +6,12 @@ cartoon /
 shuhei  
 kinukawa  
 
-Bassist, Programmer, Engineer
-
 ## About
 
-+ ジャズ、即興、エレクトロニカなどをつまみ食いするベーシスト。
-+ 映像作品の作曲、編集、ミックスもやっています。
-+ ビデオカメラとマイク持ちだして、
-  映像がわかる音響エンジニアとしても活動しています。
++ [Bassist (jazz, improvisation..)](#as_player)
++ Programmer (software, sound)
++ [Sound Engineer with handling video](#as_engineer)
++ [USTREAM Broadcaster](#as_broadcaster)
 + Shimane->Hyogo<->Tokyo, Japan
 
 ### Identifications
@@ -32,11 +30,13 @@ Bassist, Programmer, Engineer
 + Ableton Live, Avid Pro tools, Presonus Studio One
 + Final Cut Pro X, Canon G10, Roland VR-1
 + USTREAM, CamTwist, Soundflower... 
-+ C++, Ruby...
++ C++,Win32,sound,video,Ruby...
 
 --------------
 
 ## Works
+
+<a id="as_player"></a>
 
 ### Music
 
@@ -44,7 +44,8 @@ Bassist, Programmer, Engineer
 
 <section id="desc">
 
-+ Regular support bassist (2010-)
++ This is Guitar Pop\!
++ Bassist (Regular support)(2010-)
 + Recording ['Demo Songs; Ivy' - 'ivy','放課後エイリアン'](https://soundcloud.com/vabune/ivy)　
 
 </section>
@@ -59,7 +60,7 @@ Bassist, Programmer, Engineer
 
 <section id="desc">
 
-+ My electric jazz band
++ Electric jazz band
 + Member
 	* Jin Kirimura(guitars,compose)
 	* Shuhei Kinukawa(@kinushu)(bass)
@@ -97,6 +98,7 @@ Bassist, Programmer, Engineer
 
 
 
+<a id="as_engineer"></a>
 
 ### Movie
 
@@ -118,6 +120,7 @@ Bassist, Programmer, Engineer
 
 
 
+<a id="as_broadcaster"></a>
 
 ### Video Streaming
 
