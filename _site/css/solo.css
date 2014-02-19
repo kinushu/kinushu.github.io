@@ -110,6 +110,9 @@ hr {
 
 .container img, .container iframe {
   max-width: 100%;
+
+  margin: 0 auto;
+  display: block;
 }
 
 .container img {
