@@ -94,7 +94,7 @@ kinukawa
 
 <http://soundcloud.com/kinushu/>
 
-<iframe width="560" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2890942&amp;color=bd6f3a&amp;auto_play=false&amp;show_artwork=false"></iframe>
+<iframe width="400" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/2890942&amp;color=bd6f3a&amp;auto_play=false&amp;show_artwork=false"></iframe>
 
 
 
@@ -107,15 +107,17 @@ kinukawa
 
 ##### 幻想の都市(2012)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/swq_qTM0ptg" frameborder="0" allowfullscreen></iframe>
+w=356
+
+<iframe width="356" height="200" src="http://www.youtube.com/embed/swq_qTM0ptg" frameborder="0" allowfullscreen></iframe>
 
 ##### 「カレは死んでいる。」(2009)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/Q3TwH26-UQU" frameborder="0" allowfullscreen></iframe>
+<iframe width="356" height="200" src="http://www.youtube.com/embed/Q3TwH26-UQU" frameborder="0" allowfullscreen></iframe>
 
 ##### Firefly(蛍) (2008)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1uo8crulYjo" frameborder="0" allowfullscreen></iframe>
+<iframe width="356" height="200" src="http://www.youtube.com/embed/1uo8crulYjo" frameborder="0" allowfullscreen></iframe>
 
 
 
