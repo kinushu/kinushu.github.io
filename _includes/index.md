@@ -1,15 +1,10 @@
 
 --------------
 
-kernel panic  
-cartoon /  
-shuhei  
-kinukawa  
-
 ## About
 
-+ [Bassist (jazz, improvisation..)](#as_player)
 + Programmer (software, sound)
++ [Bassist (jazz, improvisation..)](#as_player)
 + [Sound Engineer with handling video](#as_engineer)
 + [USTREAM Broadcaster](#as_broadcaster)
 + Shimane->Hyogo<->Tokyo, Japan
@@ -26,11 +21,11 @@ kinukawa
 + github: [github.com/kinushu](https://github.com/kinushu)
 
 ### Equipments
++ C++,Win32,Sound,Video,Ruby...
 + PGM 5string(Low-B) fretless electric bass, ARIA SWB-04
 + Ableton Live, Avid Pro tools, Presonus Studio One
 + Final Cut Pro X, Canon G10, Roland VR-1
 + USTREAM, CamTwist, Soundflower... 
-+ C++,Win32,sound,video,Ruby...
 
 --------------
 
@@ -62,9 +57,9 @@ kinukawa
 
 + Electric jazz band
 + Member
-	* Jin Kirimura(guitars,compose)
-	* Shuhei Kinukawa(@kinushu)(bass)
-	* Yu Ito(@yk2skt)(drums)
+	* [Jin Kirimura(guitars,compose)](https://soundcloud.com/kirimura)
+	* Shuhei Kinukawa(bass)
+	* Yu Ito(drums)
 	* and guest players..
 
 </section>
@@ -107,8 +102,6 @@ kinukawa
 
 ##### 幻想の都市(2012)
 
-w=356
-
 <iframe width="356" height="200" src="http://www.youtube.com/embed/swq_qTM0ptg" frameborder="0" allowfullscreen></iframe>
 
 ##### 「カレは死んでいる。」(2009)
@@ -118,8 +111,6 @@ w=356
 ##### Firefly(蛍) (2008)
 
 <iframe width="356" height="200" src="http://www.youtube.com/embed/1uo8crulYjo" frameborder="0" allowfullscreen></iframe>
-
-
 
 
 <a id="as_broadcaster"></a>
@@ -133,11 +124,11 @@ w=356
 + 神戸のドラマー/パーカッショニスト内藤皓介が、全バンド出演する耐久戦イベント（転換中のMCも）
 + 毎年撮影、UST配信担当
 
-<iframe frameborder="0" height="270" scrolling="no" src="http://www.ustream.tv/embed/recorded/15908959" width="480"></iframe> 
+<iframe frameborder="0" width="356" height="200" scrolling="no" src="http://www.ustream.tv/embed/recorded/15908959"></iframe> 
  
 #### Jazzのライブなども配信しています
-<iframe frameborder="0" height="270" scrolling="no" src="http://www.ustream.tv/embed/recorded/17497229" width="480"></iframe>
-<iframe frameborder="0" height="270" scrolling="no" src="http://www.ustream.tv/embed/recorded/8210287" width="480"></iframe>
+<iframe frameborder="0" width="356" height="200" scrolling="no" src="http://www.ustream.tv/embed/recorded/17497229"></iframe>
+<iframe frameborder="0" width="356" height="200" scrolling="no" src="http://www.ustream.tv/embed/recorded/8210287"></iframe>
 
 
 ### Video Editing
@@ -147,7 +138,7 @@ w=356
 + ライブ映像の収録、編集担当
 + ライブ告知のビデオ編集も。
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/pKOTR6a1zoA" frameborder="0" allowfullscreen></iframe>
+<iframe  width="356" height="200" src="http://www.youtube.com/embed/pKOTR6a1zoA" frameborder="0" allowfullscreen></iframe>
 
 #### [郁文の種](http://ikubunnotane.jimdo.com/)
 + 島根県松江市でのイベント主催
@@ -155,11 +146,11 @@ w=356
 
 ##### 郁文の種vol.1 大友良英/浜田真理子
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PQYvLCvtbew" frameborder="0" allowfullscreen></iframe>
+<iframe  width="356" height="200" src="http://www.youtube.com/embed/PQYvLCvtbew" frameborder="0" allowfullscreen></iframe>
 
 ##### 郁文の種vol.3 因幡修次
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/nlNAXLZ3WX8" frameborder="0" allowfullscreen></iframe>
+<iframe  width="356" height="200" src="http://www.youtube.com/embed/nlNAXLZ3WX8" frameborder="0" allowfullscreen></iframe>
 
 #### [スクールMARIKO](http://schoolmariko.com/)
 + 撮影、録音、編集を担当
