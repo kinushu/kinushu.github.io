@@ -9,6 +9,8 @@
 + [USTREAM Broadcaster](#as_broadcaster)
 + Shimane->Hyogo<->Tokyo, Japan
 
+<img src="img/bk_img.jpg"/ width="10">
+
 ### Identifications
 
 + twitter: [@kinushu](http://twitter.com/kinushu)
