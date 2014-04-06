@@ -9,7 +9,7 @@
 + [USTREAM Broadcaster](#as_broadcaster)
 + Shimane->Hyogo<->Tokyo, Japan
 
-<img src="img/bk_img.jpg"/ width="10">
+<iframe src="https://www.flickr.com/photos/kinushu/13671487594/player/" width="5" height="3" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Identifications
 
