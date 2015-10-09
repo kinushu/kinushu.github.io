@@ -1,6 +1,9 @@
 
 --------------
 
+[http://www.kpctoon.com](http://www.kpctoon.com)
+に移転しました。
+
 ## About
 
 + Programmer (software, sound)

@@ -6,7 +6,7 @@ $root = ::File.dirname(__FILE__)
 
 class SinatraStaticServer < Sinatra::Base
 
-  ROOT_FOLDER = "_site"
+  ROOT_FOLDER = "build"
   
   get(/.+/) do
     send_sinatra_file(request.path) {404}
